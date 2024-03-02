@@ -83,7 +83,7 @@ Only to subject "start_CHARLESPC".
 
 # How does the integrated Ping function work?
 You can use this function to "ping" the PC via Email, even if you do not know its current public IP address.
-The program listens for another email subject, e.g. "ping_PC1" (can be configured in json file).
+The program listens for another email subject, e.g. "pingtest_PC1" (can be configured in json file).
 If an Email with this subject is being received, it sends an Email to the configured reply address.
 The reply will look something like this:
 ```
