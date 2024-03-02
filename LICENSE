@@ -1,0 +1,54 @@
+- Modifications to the license file are not permitted without prior authorization from ARaction GmbH. -
+
+USE OF THIS CODE AND SOFTWARE IS FREE FOR NON-COMMERICAL USE ONLY!
+READ LICENSE BELOW FOR DETAILS!
+
+To get a commercial license for use on one computer, simply send 60€ or 65 USD (onetime fee, lifetime use) to the following paypal adress:
+pay@ar-action.com
+We depend on your fairness to support our development efforts by paying the license fee.
+The Paypal Receipt will act as a license document. You will not receive any emails or documents from us. A license key is not needed.
+Please note, that you buy a license for experimental code, not a final product. We do NOT provide any warranty or support.
+
+If you buy more than 5 licenses at the same time, you are allowed to reduce the price for each licens to 45€ / 50 USD.
+If you buy more than 10 licenses at the same time, you are allowed to reduce the price for each licens to 35€ / 40 USD.
+For a bigger ammount of commercial license or use of our code in a commercial product, you can contact us:
+https://www.ar-action.com/impressum/
+
+_______________________________________________________________________________________
+_______________________________________________________________________________________
+
+The following license applies to the software contained within this repository, EXCLUDING files within the "RuntimeEnvironment" and "FortiClientTools" folders, as well as any third-party libraries utilized in the project. It is important to note that the licensing terms for files within these specific folders, as well as any third-party libraries, are governed by the respective authors' licenses. Please refer to the individual licenses provided by the authors for these components.
+
+AGPL-3.0 PLUS Commercial License
+Version 1.0, 13th February 2024
+
+NON-COMMERCIAL USE:
+This software is licensed under the terms of the GNU Affero General Public License (AGPL) version 3.0 (the "AGPL") for non-commercial use. You are free to use, modify, and distribute this software under the terms of the AGPL, provided that any modifications or derivative works are also distributed under the terms of the AGPL.
+Full text of GNU Affero General Public License version 3.0 can be found here: https://www.gnu.org/licenses/agpl-3.0.htm
+
+COMMERCIAL USE:
+For commercial use, you are required to obtain a commercial license from the copyright holder.
+
+Commercial use refers to any activity or purpose related to the operation, promotion, or conduct of a business, organization, or enterprise for financial gain or profit. This includes, but is not limited to, using the software within a company or business entity, offering services or products that incorporate or rely on the software, or distributing the software as part of a commercial product or service.
+
+The commercial license grants you the right to use this software for commercial purposes, subject to the following terms: 
+
+1. A one-time fee is applicable for each machine on which this software is installed or used for commercial purposes. The current fees are listed above, but the copyright holder reserves the right to change this fee for future licenses at any time.
+
+2. Payment of the one-time fee entitles you to use this software on the specified machine for an unlimited duration.
+
+3. The one-time fee must be paid to the initial publisher of the code, even if a modified version of the software is used for commercial purposes.
+
+4. You are responsible for ensuring compliance with the terms of the AGPL for any modifications or derivative works made to the software.
+
+5. Failure to obtain a commercial license or comply with the terms of this license for commercial use constitutes a violation of copyright law and may result in legal action.
+
+By obtaining a commercial license, you agree to abide by the terms and conditions set forth in this license.
+
+For inquiries regarding commercial licensing or to obtain a commercial license, please contact [Your Contact Information].
+
+END OF AGPL-3.0 PLUS Commercial License
+
+
+The author and rights holder of this software is: ARaction GmbH, Germany 
+Contact details / imprint: https://www.ar-action.com/impressum/
