@@ -130,9 +130,10 @@ Alternatively, you can create a fresh install package from sourcecode:
 
 
 # How to uninstall the application?
-- you can just execute C:\VPNremoteSignup\unins000.exe
+- First of all use windows Task manager, search for VPNremoteSignup.exe and end the process.
+-  Then you can just execute C:\VPNremoteSignup\unins000.exe
 OR:
-- Simply delete the folder C:\VPNremoteSignup
+- Delete the folder C:\VPNremoteSignup
 - Remove VPNremoteSignup.exe from autostart by deleting it here: C:\Users\YourUsername\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 
