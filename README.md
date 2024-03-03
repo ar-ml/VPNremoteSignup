@@ -114,15 +114,16 @@ You can use github Desktop for it: https://desktop.github.com/
 
 # How to distribute / install the application on several windows machines (with autostart)?
 You can use the install package from the releases section of this githup repo and distribute it on your machines.
-In this case, don't forget to configure your settings in C:\VPNremoteSignup\appsetings.json after each installation.
+In this case, don't forget to configure your settings in C:\VPNremoteSignup\appsetings.json after each installation. A restart might be needed afterwards.
 
-Alternatively, you can create a fresh install package:
+Alternatively, you can create a fresh install package from sourcecode:
 - First install **Inno Setup** from https://jrsoftware.org/isdl.php (version 6.2.2)
-- Make sure that in appsetings.json the following path is configured:<br>
+- Make sure that in appsetings.json all settings are set and the following path is configured:<br>
 ```
 "ClientPath": "C:\\VPNremoteSignup\\FortiClient\\FortiSSLVPNclient.exe",
 ```
 - In Visual Studio build project in **Release** mode
+- Make sure you have placed the FortiClientTools into the right folder (\gitrepo\FortiClientTools\SSLVPNcmdline\x86)
 - Run **CreateSetup.bat** in root folder
 - There is **VPNremoteSignupSetup.exe** in the **Output** folder.
 - You can now use this install package to install it on any Windows 10 or 11 computer.
