@@ -10,11 +10,11 @@ Details:
 
 Then copy the following files here:
 
-\gitrepo\VPNremoteSignupViaEmail\FortiClientTools\SSLVPNcmdline\x86\FCCryptDLL.dll
-\gitrepo\VPNremoteSignupViaEmail\FortiClientTools\SSLVPNcmdline\x86\FortiSSLVPNclient.exe
-\gitrepo\VPNremoteSignupViaEmail\FortiClientTools\SSLVPNcmdline\x86\libcrypto-3.dll
-\gitrepo\VPNremoteSignupViaEmail\FortiClientTools\SSLVPNcmdline\x86\libssl-3.dll
-\gitrepo\VPNremoteSignupViaEmail\FortiClientTools\SSLVPNcmdline\x86\mfc140.dll
-\gitrepo\VPNremoteSignupViaEmail\FortiClientTools\SSLVPNcmdline\x86\msvcp140.dll
-\gitrepo\VPNremoteSignupViaEmail\FortiClientTools\SSLVPNcmdline\x86\vcruntime140.dll
+\gitrepo\FortiClientTools\SSLVPNcmdline\x86\FCCryptDLL.dll
+\gitrepo\FortiClientTools\SSLVPNcmdline\x86\FortiSSLVPNclient.exe
+\gitrepo\FortiClientTools\SSLVPNcmdline\x86\libcrypto-3.dll
+\gitrepo\FortiClientTools\SSLVPNcmdline\x86\libssl-3.dll
+\gitrepo\FortiClientTools\SSLVPNcmdline\x86\mfc140.dll
+\gitrepo\FortiClientTools\SSLVPNcmdline\x86\msvcp140.dll
+\gitrepo\FortiClientTools\SSLVPNcmdline\x86\vcruntime140.dll
 
