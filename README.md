@@ -44,8 +44,7 @@ https://www.ar-action.com/impressum/
 - On your Fortigate Firewall you must have set up a working SSL VPN full tunnel with 2FA token authentication.
 - You must have FortiClient VPN installed on your machine and it must be running. (It can be running in background, check for tray icon.)
 Use the online Installer under \FortiClientTools\ or Download it from https://www.fortinet.com/support/product-downloads#vpn
-- You must have FortiClient Commandline tool on your hard disk. You can find it in this repository under \FortiClientTools\ or downlaod it from https://support.fortinet.com/Download/FirmwareImages.aspx -> in Dropdown select FortiClient -> Select Tab "Download" -> go to Windows/ v7.00/ 7.2/ 7.2.3/  -> Download FortiClientTools_7.2.3.0929.zip
-(It might also work with newer versions.)
+- You must have FortiClient Commandline tool on your hard disk. You can downlaod it from https://support.fortinet.com/Download/FirmwareImages.aspx Read this file for more Info: https://github.com/ar-ml/VPNremoteSignup/blob/main/FortiClientTools/SSLVPNcmdline/Readme_FortiClientToolsUsedVersion.txt
 - In appsetings.json you must set the correct "ClientPath" to FortiClient Commandline tool.
 - Firewall settings: The app communicates via IMAP and SMTP. Make sure, your firewall allows to do that.
 - Additionally, for certain functions, the app attempts to determine the machine's public IP address and will send it to you via email. This process is carried out using HTTPS, through the service provided by ifconfig.co. Depending on your firewall settings, you might receive a notification prompting you to allow this action. Depending on your configuration, you may need to manually configure your firewall to permit this.
