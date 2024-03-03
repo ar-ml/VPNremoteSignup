@@ -97,7 +97,7 @@ list of all private ips
 ```
   
 # How to build an executable application from the code?
-Note: This section is relevant for developers only. If you're not a developer, you can just download a ready to use install package from the releases section of this githup repo:  <br/>https://github.com/ar-ml/VPNremoteSignupViaEmail/releases
+Note: This section is relevant for developers only. If you're not a developer, you can just download a ready to use install package from the releases section of this githup repo:  <br/>https://github.com/ar-ml/VPNremoteSignup/releases
 
 - Make sure .NET Framework 4.6.2 Developer Pack is installed on your computer
 you can download it here: https://dotnet.microsoft.com/en-us/download/visual-studio-sdks?cid=getdotnetsdk
@@ -116,7 +116,7 @@ You can use github Desktop for it: https://desktop.github.com/
 
 # How to install the application on windows machines (with autostart)?
 You can use the install package from the releases section of this githup repo and install it on your machines: <br/>
-https://github.com/ar-ml/VPNremoteSignupViaEmail/releases <br/>
+https://github.com/ar-ml/VPNremoteSignup/releases <br/>
 In this case, don't forget to configure your settings in C:\VPNremoteSignup\appsetings.json after each installation. A restart might be needed afterwards.
 
 Alternatively, you can create a fresh install package from sourcecode, that will already contain all your settings and can easily be distributed on several machines:
