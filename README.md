@@ -97,6 +97,8 @@ list of all private ips
 ```
   
 # How to build an executable application from the code?
+Note: This section is relevant for developers only. If you're not a developer, you can just download a ready to use install package from the releases section of this githup repo:  <br/>https://github.com/ar-ml/VPNremoteSignupViaEmail/releases
+
 - Make sure .NET Framework 4.6.2 Developer Pack is installed on your computer
 you can download it here: https://dotnet.microsoft.com/en-us/download/visual-studio-sdks?cid=getdotnetsdk
 - Make sure Visual Studio 2022 is installed on your computer
@@ -108,15 +110,16 @@ You can use github Desktop for it: https://desktop.github.com/
 - Configure the right values (like IMAP and SMTP credentials, VPN credentials and Email subjects) in appsetings.json
 - In visual Studio hit F5 button to make a build
 - Test the application.
-- After quitting Visual Studio you can find the build under yourLocalGitRepo\src\VPNremoteSignup\VPNremoteSignup\bin\Debug and there you can manually execute VPNremoteSignup.exe
+- After quitting Visual Studio you can find the build under yourLocalGitRepo\src\VPNremoteSignup\bin\Debug and there you can manually execute VPNremoteSignup.exe
 - Also you can modify appsetings.json in this path again, if needed
 
 
-# How to distribute / install the application on several windows machines (with autostart)?
-You can use the install package from the releases section of this githup repo and distribute it on your machines.
+# How to install the application on windows machines (with autostart)?
+You can use the install package from the releases section of this githup repo and install it on your machines: <br/>
+https://github.com/ar-ml/VPNremoteSignupViaEmail/releases <br/>
 In this case, don't forget to configure your settings in C:\VPNremoteSignup\appsetings.json after each installation. A restart might be needed afterwards.
 
-Alternatively, you can create a fresh install package from sourcecode:
+Alternatively, you can create a fresh install package from sourcecode, that will already contain all your settings and can easily be distributed on several machines:
 - First install **Inno Setup** from https://jrsoftware.org/isdl.php (version 6.2.2)
 - Make sure that in appsetings.json all settings are set and the following path is configured:<br>
 ```
